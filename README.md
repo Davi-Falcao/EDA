@@ -18,14 +18,14 @@ Cada exercício contém código-fonte implementado em Java, bem como alguns exem
 
 O diretório `AlgoritmosDeOrdenacao` contém implementações próprias dos principais algoritmos estudados em EDA:
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-top: 12px;">
+<div>
 
-AlgoritmosDeOrdenacao/
-├── 00-implementando-counting-sort
-├── 00-implementando-merge-sort
-├── 00-implementando-quick-sort
-├── 00-implementando-radix-sort
-├── 00-insertion_sort_recurssivo
-├── 00-selection_sort_passo_a_passo
-└── 00-selection_sort_recurssivo
+        AlgoritmosDeOrdenacao/
+        ├── 00-implementando-counting-sort
+        ├── 00-implementando-merge-sort
+        ├── 00-implementando-quick-sort
+        ├── 00-implementando-radix-sort
+        ├── 00-insertion_sort_recurssivo
+        ├── 00-selection_sort_passo_a_passo
+        └── 00-selection_sort_recurssivo
 </div>
