@@ -21,7 +21,7 @@ O diretório `AlgoritmosDeOrdenacao` contém implementações próprias dos prin
 <div>
 
         AlgoritmosDeOrdenacao/
-        ├── 00-implementando-counting-sort
+        ├── 00-implementando-counting-sort  
         ├── 00-implementando-merge-sort
         ├── 00-implementando-quick-sort
         ├── 00-implementando-radix-sort
